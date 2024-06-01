@@ -73,7 +73,7 @@ Was pip installed by pip? True
 Removed build tracker: '/tmp/pip-build-tracker-m0wgcq63'
 ```
 
-# Unable to install using pip and Python 3.11
+# Unable to install using Poetry and Python 3.11
 
 Example screenshot
 
