@@ -1,4 +1,4 @@
-name: using PIP
+name: using Poetry
 
 on: [push, pull_request, workflow_dispatch]
 
