@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "demo20240601-mlmdversions"
+version = "0.1.0"
+description = "testing out MLMD versions"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ml-metadata = "^1.15.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
