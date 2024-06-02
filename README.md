@@ -12,7 +12,7 @@ Example output
 $ python --version
 Python 3.11.9
 
-$ pip install "ml-metadata==0.15.0" -vv
+$ pip install "ml-metadata==1.15.0" -vv
 ...
   Skipping link: none of the wheel's tags (cp310-cp310-macosx_12_0_x86_64) are compatible (run pip debug --verbose to show compatible tags): https://files.pythonhosted.org/packages/55/5f/17fc4983b443ecaabf7844d33b93137c588f763faed9ba3fa79a0e9e654a/ml_metadata-1.14.0-cp310-cp310-macosx_12_0_x86_64.whl (from https://pypi.org/simple/ml-metadata/) (requires-python:>=3.8,<4)
   Skipping link: none of the wheel's tags (cp310-cp310-manylinux2014_x86_64, cp310-cp310-manylinux_2_17_x86_64) are compatible (run pip debug --verbose to show compatible tags): https://files.pythonhosted.org/packages/56/96/f53d06502ddea0b71992a423bdebce59c666f9dfb50bf380822e168751ca/ml_metadata-1.14.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (from https://pypi.org/simple/ml-metadata/) (requires-python:>=3.8,<4)
